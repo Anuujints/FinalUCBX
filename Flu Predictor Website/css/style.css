@@ -1,0 +1,55 @@
+/* ADDS GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu&display=swap');
+
+body {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Lato';
+  background: rgb(240, 240, 240);
+}
+/* NAVBAR */
+.navbar-nav > li{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.navbar-brand {
+  font-family: 'Righteous';
+  font-size: 35px;
+  color: rgb(240, 240, 240) !important;
+  transition: all 0.5s ease-in;
+  padding-left: 15px;
+}
+.navbar-brand:hover {
+  color: rgb(234, 131, 255) !important;
+}
+.nav-link {
+  font-size: 16px;
+  margin: 15px;
+  color: rgb(240, 240, 240) !important;
+  font-family: 'Roboto Condensed';
+  transition: all 0.5s ease-in;
+}
+.nav-link:hover {
+  color: rgb(234, 131, 255) !important;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.navbar .navbar-toggler {
+  margin-right: 30px;
+  background-color: rgb(234, 131, 255);
+}
+.navbar {
+  background: #2D0A72;
+  background: -moz-linear-gradient(left, #2D0A72 0%, rgb(92, 42, 207) 100%);
+  background: -webkit-linear-gradient(left, #2D0A72 0%, rgb(92, 42, 207) 100%);
+  background: linear-gradient(to right, #2D0A72 0%, rgb(92, 42, 207) 100%);
+}
+
+
+.tableauPlaceholder {
+  width: 50%;
+  height: 85%;
+}
