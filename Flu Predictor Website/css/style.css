@@ -5,7 +5,7 @@ body {
   padding: 0%;
   margin: 0%;
   font-family: 'Lato';
-  background: rgb(240, 240, 240);
+  background: rgb(255, 255, 255);
 }
 /* NAVBAR */
 .navbar-nav > li{
@@ -17,7 +17,7 @@ body {
 .navbar-brand {
   font-family: 'Righteous';
   font-size: 35px;
-  color: rgb(240, 240, 240) !important;
+  color: rgb(255, 255, 255) !important;
   transition: all 0.5s ease-in;
   padding-left: 15px;
 }
@@ -27,7 +27,7 @@ body {
 .nav-link {
   font-size: 16px;
   margin: 15px;
-  color: rgb(240, 240, 240) !important;
+  color: rgb(255, 255, 255) !important;
   font-family: 'Roboto Condensed';
   transition: all 0.5s ease-in;
 }
@@ -52,4 +52,9 @@ body {
 .tableauPlaceholder {
   width: 50%;
   height: 85%;
+}
+
+
+.card {
+  position: center;
 }
