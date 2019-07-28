@@ -1,0 +1,291 @@
+"Influenza Hospitalization Rates (per 100,000 population) for the FluSurv-NET Network (downloaded on "Jul-27-2019)
+Influenza Division - Centers for Disease Control and Prevention.
+CATCHMENT,NETWORK,SEASON,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
+Minnesota,EIP,2018-19,2018,40,0-4 yr,0,0
+Minnesota,EIP,2018-19,2018,41,0-4 yr,0,0
+Minnesota,EIP,2018-19,2018,42,0-4 yr,0,0
+Minnesota,EIP,2018-19,2018,43,0-4 yr,0,0
+Minnesota,EIP,2018-19,2018,44,0-4 yr,0.5,0.5
+Minnesota,EIP,2018-19,2018,45,0-4 yr,0.5,0
+Minnesota,EIP,2018-19,2018,46,0-4 yr,0.5,0
+Minnesota,EIP,2018-19,2018,47,0-4 yr,0.5,0
+Minnesota,EIP,2018-19,2018,48,0-4 yr,1,0.5
+Minnesota,EIP,2018-19,2018,49,0-4 yr,2,1
+Minnesota,EIP,2018-19,2018,50,0-4 yr,2.5,0.5
+Minnesota,EIP,2018-19,2018,51,0-4 yr,3,0.5
+Minnesota,EIP,2018-19,2018,52,0-4 yr,4.5,1.5
+Minnesota,EIP,2018-19,2019,1,0-4 yr,5,0.5
+Minnesota,EIP,2018-19,2019,2,0-4 yr,8.4,3.5
+Minnesota,EIP,2018-19,2019,3,0-4 yr,9.4,1
+Minnesota,EIP,2018-19,2019,4,0-4 yr,10.9,1.5
+Minnesota,EIP,2018-19,2019,5,0-4 yr,13.4,2.5
+Minnesota,EIP,2018-19,2019,6,0-4 yr,15.4,2
+Minnesota,EIP,2018-19,2019,7,0-4 yr,18.3,3
+Minnesota,EIP,2018-19,2019,8,0-4 yr,22.3,4
+Minnesota,EIP,2018-19,2019,9,0-4 yr,25.8,3.5
+Minnesota,EIP,2018-19,2019,10,0-4 yr,31.2,5.5
+Minnesota,EIP,2018-19,2019,11,0-4 yr,35.7,4.5
+Minnesota,EIP,2018-19,2019,12,0-4 yr,38.7,3
+Minnesota,EIP,2018-19,2019,13,0-4 yr,43.1,4.5
+Minnesota,EIP,2018-19,2019,14,0-4 yr,48.6,5.5
+Minnesota,EIP,2018-19,2019,15,0-4 yr,51.5,3
+Minnesota,EIP,2018-19,2019,16,0-4 yr,52,0.5
+Minnesota,EIP,2018-19,2019,17,0-4 yr,54,2
+Minnesota,EIP,2018-19,2018,40,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,41,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,42,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,43,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,44,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,45,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,46,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,47,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,48,5-17 yr,0,0
+Minnesota,EIP,2018-19,2018,49,5-17 yr,0.2,0.2
+Minnesota,EIP,2018-19,2018,50,5-17 yr,0.4,0.2
+Minnesota,EIP,2018-19,2018,51,5-17 yr,0.4,0
+Minnesota,EIP,2018-19,2018,52,5-17 yr,0.6,0.2
+Minnesota,EIP,2018-19,2019,1,5-17 yr,0.8,0.2
+Minnesota,EIP,2018-19,2019,2,5-17 yr,1.2,0.4
+Minnesota,EIP,2018-19,2019,3,5-17 yr,1.2,0
+Minnesota,EIP,2018-19,2019,4,5-17 yr,1.7,0.6
+Minnesota,EIP,2018-19,2019,5,5-17 yr,2.1,0.4
+Minnesota,EIP,2018-19,2019,6,5-17 yr,3.1,1
+Minnesota,EIP,2018-19,2019,7,5-17 yr,3.7,0.6
+Minnesota,EIP,2018-19,2019,8,5-17 yr,4.8,1.2
+Minnesota,EIP,2018-19,2019,9,5-17 yr,5.4,0.6
+Minnesota,EIP,2018-19,2019,10,5-17 yr,6.1,0.8
+Minnesota,EIP,2018-19,2019,11,5-17 yr,8.3,2.1
+Minnesota,EIP,2018-19,2019,12,5-17 yr,9,0.8
+Minnesota,EIP,2018-19,2019,13,5-17 yr,9.6,0.6
+Minnesota,EIP,2018-19,2019,14,5-17 yr,10.6,1
+Minnesota,EIP,2018-19,2019,15,5-17 yr,10.8,0.2
+Minnesota,EIP,2018-19,2019,16,5-17 yr,10.8,0
+Minnesota,EIP,2018-19,2019,17,5-17 yr,10.8,0
+Minnesota,EIP,2018-19,2018,40,18-49 yr,0.1,0.1
+Minnesota,EIP,2018-19,2018,41,18-49 yr,0.2,0.1
+Minnesota,EIP,2018-19,2018,42,18-49 yr,0.3,0.2
+Minnesota,EIP,2018-19,2018,43,18-49 yr,0.3,0
+Minnesota,EIP,2018-19,2018,44,18-49 yr,0.3,0
+Minnesota,EIP,2018-19,2018,45,18-49 yr,0.4,0.1
+Minnesota,EIP,2018-19,2018,46,18-49 yr,0.4,0
+Minnesota,EIP,2018-19,2018,47,18-49 yr,0.4,0
+Minnesota,EIP,2018-19,2018,48,18-49 yr,0.5,0.2
+Minnesota,EIP,2018-19,2018,49,18-49 yr,0.7,0.2
+Minnesota,EIP,2018-19,2018,50,18-49 yr,1,0.3
+Minnesota,EIP,2018-19,2018,51,18-49 yr,1.7,0.7
+Minnesota,EIP,2018-19,2018,52,18-49 yr,2,0.3
+Minnesota,EIP,2018-19,2019,1,18-49 yr,2.5,0.5
+Minnesota,EIP,2018-19,2019,2,18-49 yr,2.9,0.5
+Minnesota,EIP,2018-19,2019,3,18-49 yr,3.2,0.3
+Minnesota,EIP,2018-19,2019,4,18-49 yr,4.2,1
+Minnesota,EIP,2018-19,2019,5,18-49 yr,5.7,1.5
+Minnesota,EIP,2018-19,2019,6,18-49 yr,6.6,0.8
+Minnesota,EIP,2018-19,2019,7,18-49 yr,8.4,1.8
+Minnesota,EIP,2018-19,2019,8,18-49 yr,11.2,2.9
+Minnesota,EIP,2018-19,2019,9,18-49 yr,12.8,1.6
+Minnesota,EIP,2018-19,2019,10,18-49 yr,14.6,1.8
+Minnesota,EIP,2018-19,2019,11,18-49 yr,16.4,1.8
+Minnesota,EIP,2018-19,2019,12,18-49 yr,17.4,1
+Minnesota,EIP,2018-19,2019,13,18-49 yr,18.6,1.2
+Minnesota,EIP,2018-19,2019,14,18-49 yr,19.4,0.8
+Minnesota,EIP,2018-19,2019,15,18-49 yr,20.3,1
+Minnesota,EIP,2018-19,2019,16,18-49 yr,20.8,0.5
+Minnesota,EIP,2018-19,2019,17,18-49 yr,21.1,0.3
+Minnesota,EIP,2018-19,2018,40,50-64 yr,0,0
+Minnesota,EIP,2018-19,2018,41,50-64 yr,0.2,0.2
+Minnesota,EIP,2018-19,2018,42,50-64 yr,0.8,0.7
+Minnesota,EIP,2018-19,2018,43,50-64 yr,1.2,0.3
+Minnesota,EIP,2018-19,2018,44,50-64 yr,1.2,0
+Minnesota,EIP,2018-19,2018,45,50-64 yr,1.2,0
+Minnesota,EIP,2018-19,2018,46,50-64 yr,1.2,0
+Minnesota,EIP,2018-19,2018,47,50-64 yr,1.5,0.3
+Minnesota,EIP,2018-19,2018,48,50-64 yr,1.7,0.2
+Minnesota,EIP,2018-19,2018,49,50-64 yr,1.8,0.2
+Minnesota,EIP,2018-19,2018,50,50-64 yr,1.8,0
+Minnesota,EIP,2018-19,2018,51,50-64 yr,2.2,0.3
+Minnesota,EIP,2018-19,2018,52,50-64 yr,3.3,1.2
+Minnesota,EIP,2018-19,2019,1,50-64 yr,5,1.7
+Minnesota,EIP,2018-19,2019,2,50-64 yr,6.8,1.8
+Minnesota,EIP,2018-19,2019,3,50-64 yr,8.1,1.3
+Minnesota,EIP,2018-19,2019,4,50-64 yr,9.4,1.3
+Minnesota,EIP,2018-19,2019,5,50-64 yr,11.6,2.2
+Minnesota,EIP,2018-19,2019,6,50-64 yr,14.2,2.7
+Minnesota,EIP,2018-19,2019,7,50-64 yr,16.7,2.5
+Minnesota,EIP,2018-19,2019,8,50-64 yr,20.9,4.1
+Minnesota,EIP,2018-19,2019,9,50-64 yr,24.5,3.6
+Minnesota,EIP,2018-19,2019,10,50-64 yr,32.3,7.8
+Minnesota,EIP,2018-19,2019,11,50-64 yr,37.3,5
+Minnesota,EIP,2018-19,2019,12,50-64 yr,42.9,5.6
+Minnesota,EIP,2018-19,2019,13,50-64 yr,47.9,5
+Minnesota,EIP,2018-19,2019,14,50-64 yr,50.4,2.5
+Minnesota,EIP,2018-19,2019,15,50-64 yr,52.4,2
+Minnesota,EIP,2018-19,2019,16,50-64 yr,54.2,1.8
+Minnesota,EIP,2018-19,2019,17,50-64 yr,54.8,0.7
+Minnesota,EIP,2018-19,2018,40,65+ yr,0.2,0.2
+Minnesota,EIP,2018-19,2018,41,65+ yr,0.5,0.2
+Minnesota,EIP,2018-19,2018,42,65+ yr,0.7,0.2
+Minnesota,EIP,2018-19,2018,43,65+ yr,1.2,0.5
+Minnesota,EIP,2018-19,2018,44,65+ yr,1.7,0.5
+Minnesota,EIP,2018-19,2018,45,65+ yr,2.6,1
+Minnesota,EIP,2018-19,2018,46,65+ yr,2.6,0
+Minnesota,EIP,2018-19,2018,47,65+ yr,2.9,0.2
+Minnesota,EIP,2018-19,2018,48,65+ yr,3.6,0.7
+Minnesota,EIP,2018-19,2018,49,65+ yr,4.6,1
+Minnesota,EIP,2018-19,2018,50,65+ yr,4.8,0.2
+Minnesota,EIP,2018-19,2018,51,65+ yr,5.8,1
+Minnesota,EIP,2018-19,2018,52,65+ yr,9.1,3.4
+Minnesota,EIP,2018-19,2019,1,65+ yr,11.3,2.2
+Minnesota,EIP,2018-19,2019,2,65+ yr,13.5,2.2
+Minnesota,EIP,2018-19,2019,3,65+ yr,15.1,1.7
+Minnesota,EIP,2018-19,2019,4,65+ yr,18.8,3.6
+Minnesota,EIP,2018-19,2019,5,65+ yr,24.8,6
+Minnesota,EIP,2018-19,2019,6,65+ yr,30.1,5.3
+Minnesota,EIP,2018-19,2019,7,65+ yr,35.6,5.5
+Minnesota,EIP,2018-19,2019,8,65+ yr,46.4,10.8
+Minnesota,EIP,2018-19,2019,9,65+ yr,56.7,10.3
+Minnesota,EIP,2018-19,2019,10,65+ yr,70.7,13.9
+Minnesota,EIP,2018-19,2019,11,65+ yr,86.6,15.9
+Minnesota,EIP,2018-19,2019,12,65+ yr,96.4,9.9
+Minnesota,EIP,2018-19,2019,13,65+ yr,108,11.5
+Minnesota,EIP,2018-19,2019,14,65+ yr,116.4,8.4
+Minnesota,EIP,2018-19,2019,15,65+ yr,123.1,6.7
+Minnesota,EIP,2018-19,2019,16,65+ yr,126.5,3.4
+Minnesota,EIP,2018-19,2019,17,65+ yr,131.5,5
+Minnesota,EIP,2018-19,2018,40,Overall,0.1,0.1
+Minnesota,EIP,2018-19,2018,41,Overall,0.2,0.1
+Minnesota,EIP,2018-19,2018,42,Overall,0.4,0.2
+Minnesota,EIP,2018-19,2018,43,Overall,0.5,0.1
+Minnesota,EIP,2018-19,2018,44,Overall,0.6,0.1
+Minnesota,EIP,2018-19,2018,45,Overall,0.8,0.2
+Minnesota,EIP,2018-19,2018,46,Overall,0.8,0
+Minnesota,EIP,2018-19,2018,47,Overall,0.9,0.1
+Minnesota,EIP,2018-19,2018,48,Overall,1.1,0.2
+Minnesota,EIP,2018-19,2018,49,Overall,1.4,0.3
+Minnesota,EIP,2018-19,2018,50,Overall,1.7,0.2
+Minnesota,EIP,2018-19,2018,51,Overall,2.2,0.5
+Minnesota,EIP,2018-19,2018,52,Overall,3.1,0.9
+Minnesota,EIP,2018-19,2019,1,Overall,4,0.9
+Minnesota,EIP,2018-19,2019,2,Overall,5.2,1.1
+Minnesota,EIP,2018-19,2019,3,Overall,5.9,0.7
+Minnesota,EIP,2018-19,2019,4,Overall,7.2,1.4
+Minnesota,EIP,2018-19,2019,5,Overall,9.3,2.1
+Minnesota,EIP,2018-19,2019,6,Overall,11.2,1.9
+Minnesota,EIP,2018-19,2019,7,Overall,13.6,2.3
+Minnesota,EIP,2018-19,2019,8,Overall,17.5,4
+Minnesota,EIP,2018-19,2019,9,Overall,20.7,3.1
+Minnesota,EIP,2018-19,2019,10,Overall,25.3,4.7
+Minnesota,EIP,2018-19,2019,11,Overall,29.9,4.6
+Minnesota,EIP,2018-19,2019,12,Overall,33.1,3.2
+Minnesota,EIP,2018-19,2019,13,Overall,36.6,3.5
+Minnesota,EIP,2018-19,2019,14,Overall,39,2.5
+Minnesota,EIP,2018-19,2019,15,Overall,41,2
+Minnesota,EIP,2018-19,2019,16,Overall,42,1
+Minnesota,EIP,2018-19,2019,17,Overall,43.1,1.1
+Minnesota,EIP,2018-19,2018,40,65-74 yr,0.4,0.4
+Minnesota,EIP,2018-19,2018,41,65-74 yr,0.8,0.4
+Minnesota,EIP,2018-19,2018,42,65-74 yr,1.2,0.4
+Minnesota,EIP,2018-19,2018,43,65-74 yr,1.6,0.4
+Minnesota,EIP,2018-19,2018,44,65-74 yr,2,0.4
+Minnesota,EIP,2018-19,2018,45,65-74 yr,2.8,0.8
+Minnesota,EIP,2018-19,2018,46,65-74 yr,2.8,0
+Minnesota,EIP,2018-19,2018,47,65-74 yr,3.2,0.4
+Minnesota,EIP,2018-19,2018,48,65-74 yr,3.6,0.4
+Minnesota,EIP,2018-19,2018,49,65-74 yr,4.4,0.8
+Minnesota,EIP,2018-19,2018,50,65-74 yr,4.9,0.4
+Minnesota,EIP,2018-19,2018,51,65-74 yr,5.7,0.8
+Minnesota,EIP,2018-19,2018,52,65-74 yr,8.5,2.8
+Minnesota,EIP,2018-19,2019,1,65-74 yr,9.7,1.2
+Minnesota,EIP,2018-19,2019,2,65-74 yr,12.1,2.4
+Minnesota,EIP,2018-19,2019,3,65-74 yr,13.7,1.6
+Minnesota,EIP,2018-19,2019,4,65-74 yr,17,3.2
+Minnesota,EIP,2018-19,2019,5,65-74 yr,19.8,2.8
+Minnesota,EIP,2018-19,2019,6,65-74 yr,23.1,3.2
+Minnesota,EIP,2018-19,2019,7,65-74 yr,26.7,3.6
+Minnesota,EIP,2018-19,2019,8,65-74 yr,35.6,8.9
+Minnesota,EIP,2018-19,2019,9,65-74 yr,42.1,6.5
+Minnesota,EIP,2018-19,2019,10,65-74 yr,52.2,10.1
+Minnesota,EIP,2018-19,2019,11,65-74 yr,61.9,9.7
+Minnesota,EIP,2018-19,2019,12,65-74 yr,68.7,6.9
+Minnesota,EIP,2018-19,2019,13,65-74 yr,76.4,7.7
+Minnesota,EIP,2018-19,2019,14,65-74 yr,82.5,6.1
+Minnesota,EIP,2018-19,2019,15,65-74 yr,86.5,4
+Minnesota,EIP,2018-19,2019,16,65-74 yr,88.6,2
+Minnesota,EIP,2018-19,2019,17,65-74 yr,91.4,2.8
+Minnesota,EIP,2018-19,2018,40,75-84 yr,0,0
+Minnesota,EIP,2018-19,2018,41,75-84 yr,0,0
+Minnesota,EIP,2018-19,2018,42,75-84 yr,0,0
+Minnesota,EIP,2018-19,2018,43,75-84 yr,0.9,0.9
+Minnesota,EIP,2018-19,2018,44,75-84 yr,0.9,0
+Minnesota,EIP,2018-19,2018,45,75-84 yr,1.8,0.9
+Minnesota,EIP,2018-19,2018,46,75-84 yr,1.8,0
+Minnesota,EIP,2018-19,2018,47,75-84 yr,1.8,0
+Minnesota,EIP,2018-19,2018,48,75-84 yr,2.6,0.9
+Minnesota,EIP,2018-19,2018,49,75-84 yr,3.5,0.9
+Minnesota,EIP,2018-19,2018,50,75-84 yr,3.5,0
+Minnesota,EIP,2018-19,2018,51,75-84 yr,5.3,1.8
+Minnesota,EIP,2018-19,2018,52,75-84 yr,8.8,3.5
+Minnesota,EIP,2018-19,2019,1,75-84 yr,11.4,2.6
+Minnesota,EIP,2018-19,2019,2,75-84 yr,14.1,2.6
+Minnesota,EIP,2018-19,2019,3,75-84 yr,14.9,0.9
+Minnesota,EIP,2018-19,2019,4,75-84 yr,18.5,3.5
+Minnesota,EIP,2018-19,2019,5,75-84 yr,24.6,6.2
+Minnesota,EIP,2018-19,2019,6,75-84 yr,29.9,5.3
+Minnesota,EIP,2018-19,2019,7,75-84 yr,41.3,11.4
+Minnesota,EIP,2018-19,2019,8,75-84 yr,51,9.7
+Minnesota,EIP,2018-19,2019,9,75-84 yr,66.8,15.8
+Minnesota,EIP,2018-19,2019,10,75-84 yr,80.9,14.1
+Minnesota,EIP,2018-19,2019,11,75-84 yr,103.7,22.9
+Minnesota,EIP,2018-19,2019,12,75-84 yr,116.9,13.2
+Minnesota,EIP,2018-19,2019,13,75-84 yr,131,14.1
+Minnesota,EIP,2018-19,2019,14,75-84 yr,138,7
+Minnesota,EIP,2018-19,2019,15,75-84 yr,145,7
+Minnesota,EIP,2018-19,2019,16,75-84 yr,147.7,2.6
+Minnesota,EIP,2018-19,2019,17,75-84 yr,154.7,7
+Minnesota,EIP,2018-19,2018,40,85+,0,0
+Minnesota,EIP,2018-19,2018,41,85+,0,0
+Minnesota,EIP,2018-19,2018,42,85+,0,0
+Minnesota,EIP,2018-19,2018,43,85+,0,0
+Minnesota,EIP,2018-19,2018,44,85+,1.8,1.8
+Minnesota,EIP,2018-19,2018,45,85+,3.6,1.8
+Minnesota,EIP,2018-19,2018,46,85+,3.6,0
+Minnesota,EIP,2018-19,2018,47,85+,3.6,0
+Minnesota,EIP,2018-19,2018,48,85+,5.5,1.8
+Minnesota,EIP,2018-19,2018,49,85+,7.3,1.8
+Minnesota,EIP,2018-19,2018,50,85+,7.3,0
+Minnesota,EIP,2018-19,2018,51,85+,7.3,0
+Minnesota,EIP,2018-19,2018,52,85+,12.8,5.5
+Minnesota,EIP,2018-19,2019,1,85+,18.2,5.5
+Minnesota,EIP,2018-19,2019,2,85+,18.2,0
+Minnesota,EIP,2018-19,2019,3,85+,21.9,3.6
+Minnesota,EIP,2018-19,2019,4,85+,27.3,5.5
+Minnesota,EIP,2018-19,2019,5,85+,47.4,20
+Minnesota,EIP,2018-19,2019,6,85+,62,14.6
+Minnesota,EIP,2018-19,2019,7,85+,63.8,1.8
+Minnesota,EIP,2018-19,2019,8,85+,85.7,21.9
+Minnesota,EIP,2018-19,2019,9,85+,102.1,16.4
+Minnesota,EIP,2018-19,2019,10,85+,133,31
+Minnesota,EIP,2018-19,2019,11,85+,162.2,29.2
+Minnesota,EIP,2018-19,2019,12,85+,178.6,16.4
+Minnesota,EIP,2018-19,2019,13,85+,202.3,23.7
+Minnesota,EIP,2018-19,2019,14,85+,224.2,21.9
+Minnesota,EIP,2018-19,2019,15,85+,242.4,18.2
+Minnesota,EIP,2018-19,2019,16,85+,253.3,10.9
+Minnesota,EIP,2018-19,2019,17,85+,264.3,10.9
+
+Disclaimer:
+The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject
+to change as more data become available. All incidence rates are unadjusted.  FluSurv-NET conducts
+population-based surveillance for laboratory-confirmed influenza related hospitalizations in
+children <18 years of age (since 2003-2004 influenza season) and adults (since 2005-2006 influenza
+season).  The FluSurv-NET covers over 70 counties in the 10 Emerging Infections Program (EIP)
+"states (CA, CO, CT, GA, MD, MN, NM, NY, OR, TN) and additional Influenza Hospitalization"
+Surveillance Project (IHSP) states.   The IHSP began during the 2009-2010 season to enhance
+"surveillance during the 2009 H1N1 pandemic.  IHSP sites included IA, ID, MI, OK and SD during"
+"2009-2010 season; ID, MI, OH, OK, RI, and UT during the 2010-2011 season; MI, OH, RI, and UT during"
+"the 2011-2012 season; IA, MI, OH, RI, and UT during the 2012-2013 season; and MI, OH, and UT during"
+"the 2013-2014 , 2014-2015 and 2015-2016 seasons.  Cumulative and weekly unadjusted incidence rates"
+"(per 100,000 population) are calculated using the National Center for Health Statistics' (NCHS)"
+population estimates for the counties included in the surveillance catchment area.  The rates
+"provided are likely to be underestimated as influenza-related hospitalizations can be missed,"
+"either because testing is not performed, or because cases may be attributed to other causes of"
+pneumonia or other common influenza-related complications.
