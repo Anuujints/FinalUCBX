@@ -49,6 +49,9 @@ body {
 }
 
 
+
+/* predictor_map PAGE */
+/* Tableau ILI Patients Per State Map */
 .tableauPlaceholder {
   padding-top: 15px;
   padding-left: 100px;
@@ -56,3 +59,22 @@ body {
   width: 60%;
 }
 
+
+
+/* google_trends PAGE */
+h1 {
+  padding-top: 1%;
+  font-family: 'Righteous';
+  color: rgb(109, 64, 216) !important;
+  text-shadow: 1px 2px 2px rgb(234, 131, 255);
+}
+hr {
+  width: 50%;
+  border-top: 2px solid #8f8f8f;
+}
+.card {
+  border: white;
+}
+p {
+  padding: 100px;
+}
