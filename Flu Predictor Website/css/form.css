@@ -1,0 +1,123 @@
+/* ADDS GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu&display=swap');
+
+body {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Lato';
+  background: rgb(255, 255, 255);
+}
+/* NAVBAR */
+.navbar-nav > li{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.navbar-brand {
+  font-family: 'Righteous';
+  font-size: 35px;
+  color: rgb(255, 255, 255) !important;
+  transition: all 0.5s ease-in;
+  padding-left: 15px;
+}
+.navbar-brand:hover {
+  color: rgb(234, 131, 255) !important;
+}
+.nav-link {
+  font-size: 16px;
+  margin: 15px;
+  color: rgb(255, 255, 255) !important;
+  font-family: 'Roboto Condensed';
+  transition: all 0.5s ease-in;
+}
+.nav-link:hover {
+  color: rgb(234, 131, 255) !important;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.navbar .navbar-toggler {
+  margin-right: 30px;
+  background-color: rgb(234, 131, 255);
+}
+.navbar {
+  background: #2D0A72;
+  background: -moz-linear-gradient(left, rgb(232, 222, 252) 0%, rgb(92, 42, 207) 100%);
+  background: -webkit-linear-gradient(left, #2D0A72 0%, rgb(92, 42, 207) 100%);
+  background: linear-gradient(to right, #2D0A72 0%, rgb(92, 42, 207) 100%);
+}
+
+
+
+
+/* Below line is write to use Google font online */
+@import "http://fonts.googleapis.com/css?family=Ubuntu";
+div#main{
+width:830px;
+height:650px;
+margin:0 auto;
+font-family:'Ubuntu',sans-serif;
+padding-left: 150px;
+}
+div#form_sample{
+text-align:center;
+border:1px solid white;
+width:300px;
+padding:0 50px 15px;
+margin-top:20px;
+box-shadow:0 0 3px;
+border-radius:6px;
+float:left
+}
+#main h1{
+margin-top:40px;
+padding-top: 40px;
+}
+h2 {
+padding-top: 40px;
+}
+hr{
+margin-top:-5px;
+}
+label{
+float:left;
+font-size:16px;
+}
+input[type="text"]{
+width:100%;
+margin-top:10px;
+height:35px;
+margin-bottom:25px;
+padding:10px;
+border:3px solid #2D0A72;
+}
+textarea{
+width:100%;
+border:3px solid #2D0A72;
+padding:10px;
+margin-bottom:25px;
+margin-top:10px;
+height:100px;
+resize:none;
+}
+input[type="submit"]{
+width:100%;
+padding:10px 45px;
+background-color:#2D0A72;
+border:none;
+color:#fff;
+font-size:18px;
+font-weight:700;
+cursor:pointer;
+font-family:'Ubuntu',sans-serif;
+}
+/* -------------------------------------
+CSS for Sidebar (optional)
+---------------------------------------- */
+div#fugo{
+float:right;
+}
+Copy
+
+

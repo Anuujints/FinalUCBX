@@ -50,11 +50,9 @@ body {
 
 
 .tableauPlaceholder {
-  width: 50%;
-  height: 85%;
+  padding-top: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: 60%;
 }
 
-
-.card {
-  position: center;
-}
