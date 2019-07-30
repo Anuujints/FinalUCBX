@@ -54,16 +54,15 @@ body {
 /* Below line is write to use Google font online */
 @import "http://fonts.googleapis.com/css?family=Ubuntu";
 div#main{
-width:830px;
+width:900px;
 height:650px;
 margin:0 auto;
 font-family:'Ubuntu',sans-serif;
-padding-left: 150px;
 }
 div#form_sample{
 text-align:center;
 border:1px solid white;
-width:300px;
+width:400px;
 padding:0 50px 15px;
 margin-top:20px;
 box-shadow:0 0 3px;
@@ -88,7 +87,7 @@ input[type="text"]{
 width:100%;
 margin-top:10px;
 height:35px;
-margin-bottom:25px;
+margin-bottom:20px;
 padding:10px;
 border:3px solid #2D0A72;
 }
@@ -96,7 +95,7 @@ textarea{
 width:100%;
 border:3px solid #2D0A72;
 padding:10px;
-margin-bottom:25px;
+margin-bottom:100px;
 margin-top:10px;
 height:100px;
 resize:none;
@@ -116,7 +115,7 @@ font-family:'Ubuntu',sans-serif;
 CSS for Sidebar (optional)
 ---------------------------------------- */
 div#fugo{
-float:right;
+float: inherit;
 }
 Copy
 

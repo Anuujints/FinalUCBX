@@ -36,8 +36,9 @@ def index():
     """Return the homepage."""
     return render_template("index.html")
 
+
 @app.route("/agechart")
-def index():
+def agechart():
     """Return the homepage."""
     return render_template("age_chart.html")
 

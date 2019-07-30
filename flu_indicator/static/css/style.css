@@ -68,6 +68,9 @@ h1 {
   color: rgb(109, 64, 216) !important;
   text-shadow: 1px 2px 2px rgb(234, 131, 255);
 }
+h2 {
+  padding-top: 10px;
+}
 hr {
   width: 50%;
   border-top: 2px solid #8f8f8f;
