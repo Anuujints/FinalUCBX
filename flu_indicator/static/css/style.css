@@ -49,6 +49,11 @@ body {
 }
 
 
+.container-fluid {
+  padding-left: 7%;
+}
+
+
 
 /* predictor_map PAGE */
 /* Tableau ILI Patients Per State Map */
@@ -73,11 +78,14 @@ h2 {
 }
 hr {
   width: 50%;
+  align-content: center;
   border-top: 2px solid #8f8f8f;
 }
 .card {
   border: white;
 }
 p {
+  align-content: center;
   padding: 100px;
 }
+
