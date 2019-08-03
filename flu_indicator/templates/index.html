@@ -11,13 +11,12 @@
   integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="../static/css/mainHW12.css">
   <script src="https://d3js.org/d3.v5.min.js"></script>
   
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
   <!-- Link to CSS -->
-  <link rel="stylesheet" href="../static/css/style.css" type="text/css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" type="text/css">
 </head>
 
 
@@ -40,9 +39,10 @@
         <li class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Explore</a>
           <div class="dropdown-menu">
-            <a href="/predictor_map.html" class="dropdown-item">Influenza Patients Per State Map</a>
+            <a href="/predictor_map.html#viz1564284286933" class="dropdown-item">Influenza Patients Per State Map</a>
             <a href="/predictor_map.html" class="dropdown-item">Influenza Mortality Per State Map</a>
             <a href="/predictor_map.html" class="dropdown-item">Influenza Patient Age Map</a>
+            <a href="/weekly_predictor.html" class="dropdown-item">Weekly Influenza Predictor</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -50,7 +50,7 @@
           <div class="dropdown-menu">
             <a href="/cdc_data.html" class="dropdown-item">CDC Data</a>
             <a href="/google_trends.html" class="dropdown-item">Google Trends Data</a>
-            <a href="#" class="dropdown-item">...</a>
+            <a href="/studies.html" class="dropdown-item">Similar Studies</a>
           </div>
         </li>
         <li class="nav-item">
@@ -72,10 +72,10 @@
         <!-- start slipsum code -->
         <p><FONT Size="3">Here is a collection of maps created with a combination of the CDC and ILINet data. 
         Each map visualizes a deeper breakdown of this data showing influenza like illnesses in each state, the rates of mortalitly from inlfuenza per state, 
-        as well as the rate that different age groups are effected by influenza throughout the country. Click each photo to dive deeper into the data.</FONT></p>  
+        as well as the rate that different age groups are effected by influenza throughout the country. Click each photo to dive deeper into the data.</FONT></p> 
       </div>
       <div class="col-md-4 picturesRight">
-          <div class="container-fluid col-md-12">
+        <div class="container-fluid col-md-12">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -166,9 +166,6 @@
         </div>
       </div>
     </div>
-
-      
-
 
 
 

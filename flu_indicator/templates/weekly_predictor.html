@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Influenza Tracker</title>
+  <link rel="icon" href="../static/src/assets/favicon.png">
+
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+  <!-- Link to CSS -->
+  <link rel="stylesheet" href="../static/css/style.css" type="text/css">
+</head>
+
+
+<body>
+
+  
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+    <a class="navbar-brand" href="/">Influenza Tracker</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu" 
+    aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle Navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- Centers nav-items -->
+    <div class="collapse navbar-collapse" id="navbarMenu">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a href="/" class="nav-link">About</a>
+        </li> 
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Explore</a>
+          <div class="dropdown-menu">
+            <a href="/predictor_map.html" class="dropdown-item">Influenza Patients Per State Map</a>
+            <a href="/predictor_map.html" class="dropdown-item">Influenza Mortality Per State Map</a>
+            <a href="/predictor_map.html" class="dropdown-item">Influenza Patient Age Map</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources</a>
+          <div class="dropdown-menu">
+            <a href="/cdc_data.html" class="dropdown-item">CDC Data</a>
+            <a href="/google_trends.html" class="dropdown-item">Google Trends Data</a>
+            <a href="#" class="dropdown-item">...</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a href="/contact.html" class="nav-link">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+<!--- Title -->
+<div class="container-fluid padding">
+  <div class="row welcome text-center">
+    <div class="col-12">
+      <h1 class="display-4">Identifying Key Terms</h1>
+      <hr>
+    </div>
+  </div>
+</div>
+
+
+<!--- Word Cloud Image -->
+<div class="container-fluid padding">
+  <div class="row padding">
+    <div class="col-md-8 mx-auto">
+      <div class="card">
+        <!-- crd-img-top: image at the top rather than the middle -->
+        <img class="card-img-top" src="../static/src/assets/wordcloud.png" alt="word cloud">
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+<!-- Paragraph -->
+<!-- padding between container and rows -->
+<div class="container-fluid padding">
+  <!-- welcome class used to style width -->
+  <div class="row welcome text-center">
+    <div class="col-12">
+      <p class="lead">The use of Google Trends and Google Correlate to find key terms relating to Influenza became a huge factor in this project. 
+        Google does an awesome job compiling data and making it easily accessible to the public. We were able to locate 129 terms that consistently are ranked
+        amongst the highest searched terms when it comes to Influenza. With these 129 terms we were also able to get a tracking overly the weeks of how these terms ranked
+        which was how we coould track the flu easier. The more these terms were searched, the more likely people we feeling symptoms.</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+
+  <script>
+    window.sr = ScrollReveal({ duration : 1000 });
+    sr.reveal('.site-content .d-flex');
+    sr.reveal('.section-1 .card');
+    sr.reveal('.section-2 .d-flex');
+    sr.reveal('.section-3 .col-md-4');
+    sr.reveal('.section-4 .col-md-7, .col-md-5');
+  </script>
+
+</body>
+
+
+</html>

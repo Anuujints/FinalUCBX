@@ -55,6 +55,11 @@ body {
 
 
 
+.carousel {
+  width:110%;
+  height:110%;
+}
+
 /* predictor_map PAGE */
 /* Tableau ILI Patients Per State Map */
 .tableauPlaceholder {
