@@ -86,13 +86,15 @@ hr {
   width: 50%;
   align-content: center;
   border-top: 2px solid #8f8f8f;
+  padding-top: 25px;
 }
 .card{
   border: white;
+  size: 100%;
 }
 p {
   align-content: center;
-  padding: 100px;
+  padding-bottom: 50px;
 }
 
 .btn-outline-info {
