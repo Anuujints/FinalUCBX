@@ -40,8 +40,9 @@
         <li class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Explore</a>
           <div class="dropdown-menu">
-            <a href="predictor_map.html" class="dropdown-item">Influenza Patient Map</a>
-            <a href="age_chart.html" class="dropdown-item">ILI By Age Chart</a>
+            <a href="predictor_map.html" class="dropdown-item">Influenza Patients Per State Map</a>
+            <a href="predictor_map.html" class="dropdown-item">Influenza Mortality Per State Map</a>
+            <a href="predictor_map.html" class="dropdown-item">Influenza Patient Age Map</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -69,29 +70,58 @@
       <div class="col-md-7 blurbLeft">
         <br><br><br><br>
         <!-- start slipsum code -->
-        <p><FONT Size="3">I love cheese, especially airedale queso. Cheese and biscuits halloumi cauliflower 
-          cheese cottage cheese swiss boursin fondue caerphilly. 
-          Cow port-salut camembert de normandie macaroni cheese feta who moved my cheese babybel boursin. 
-          Red leicester roquefort boursin squirty cheese jarlsberg blue castello caerphilly chalk and cheese. 
-          Lancashire.</FONT></p>  
+        <p><FONT Size="3">Here is a collection of maps created with a combination of the CDC and ILINet data. 
+        Each map visualizes a deeper breakdown of this data showing influenza like illnesses in each state, the rates of mortalitly from inlfuenza per state, 
+        as well as the rate that different age groups are effected by influenza throughout the country. Click each photo to dive deeper into the data.</FONT></p>  
       </div>
       <div class="col-md-4 picturesRight">
-        <div class="container-fluid col-md-12">
-          <div class="card-list visualizations" style="align-content: center">
-            <div class="flourishHover clickableImg">
-              <h3><center>Tableau Map - ILI Per State Over Time</center></h3>
-              <a href="/choropleth"><img src="../static/src/assets/influenzapic.png" class="img-fluid img-responsive" align="right"></a>
+          <div class="container-fluid col-md-12">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <a href="predictor_map.html">
+                <img class="d-block w-100" src="../static/src/assets/influenzapercentsmap.png" alt="First slide">
+                <div class="carousel-caption d-block">
+                  <h2>Influenza Patients Per State Map</h2>
+                </div>
+              </a>
+            </div>
+            <div class="carousel-item">
+              <a href="predictor_map.html">
+                <img class="d-block w-100" href="predictor_map.html" src="../static/src/assets/influenzapercentsmap.png" alt="Second slide">
+                <div class="carousel-caption d-block">
+                  <h2>Influenza Mortality Per State Map</h2>
+                </div>
+              </a>
+            </div>
+            <div class="carousel-item">
+              <a href="predictor_map.html">
+                <img class="d-block w-100" src="../static/src/assets/influenzapercentsmap.png" alt="Third slide">
+                <div class="carousel-caption d-block">
+                  <h2 href="predictor_map.html">Influenza Patient Age Map</h2>
+                </div>
+              </a>
             </div>
           </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
         </div>
       </div>
     </div>
+  </div>
+
 
     <hr>
     <br><br><br><br>
 
     <div class="row">
-      <div class="col-md-4">
+      <div class="col-md-4 picturesLeft">
         <div class="container-fluid col-md-12">
           <div class="card-list visualizations" style="align-content: center">
             <div class="flourishHover clickableImg">
