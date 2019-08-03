@@ -51,6 +51,7 @@ body {
 
 .container-fluid {
   padding-left: 7%;
+  padding-right: 7%;
 }
 
 
@@ -86,11 +87,23 @@ hr {
   align-content: center;
   border-top: 2px solid #8f8f8f;
 }
-.card {
-  border: rgb(109, 64, 216);
+.card{
+  border: white;
 }
 p {
   align-content: center;
   padding: 100px;
 }
 
+.btn-outline-info {
+  color: #2D0A72;
+  border-color: rgb(109, 64, 216);
+}
+.btn {
+  align-content: center;
+}
+.btn:hover {
+  background-color: #2D0A72;
+  border-color: rgb(109, 64, 216);
+  color: rgb(234, 131, 255);
+}
