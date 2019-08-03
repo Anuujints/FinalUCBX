@@ -26,7 +26,7 @@ def maps():
 
 # Route to Weekly Influenza Predictor
 @app.route("/weekly_predictor.html")
-def maps():
+def predictor():
     """Render Home Page."""
     return render_template("weekly_predictor.html")
 
