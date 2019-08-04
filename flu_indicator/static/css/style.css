@@ -63,17 +63,27 @@ body {
 
 /* predictor_map PAGE */
 /* Tableau ILI Patients Per State Map */
-.tableauPlaceholder {
+#viz1564284286933{
   padding-top: 15px;
   padding-left: 100px;
   padding-right: 100px;
   width: 60%;
 }
 
-#vviz1564956894668{
-  padding-left: 600px;
-  width: 100%;
+#viz1564945152043{
+  padding-top: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: 60%;
 }
+
+/* #viz1564959773292{
+  padding-top: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: 100%;
+} */
+
 
 
 
@@ -86,6 +96,9 @@ h1 {
 }
 h2 {
   padding-top: 10px;
+  font-family: 'Righteous';
+  color: rgb(109, 64, 216) !important;
+  text-shadow: 1px 2px 2px rgb(234, 131, 255);
 }
 hr {
   width: 50%;
@@ -100,8 +113,12 @@ hr {
 p {
   align-content: center;
   padding-bottom: 50px;
+  color: #2D0A72 !important;
+  font-size: 15px;
 }
-
+.lead {
+  font-size: 15px;
+}
 .btn-outline-info {
   color: #2D0A72;
   border-color: rgb(109, 64, 216);
@@ -115,7 +132,12 @@ p {
   color: rgb(234, 131, 255);
 }
 
-
+a {
+  color: #2D0A72;
+  text-decoration: none;
+  background-color: transparent;
+  font-size: 14px;
+}
 
 
 /* FontAwesome for working BootSnippet :> */
