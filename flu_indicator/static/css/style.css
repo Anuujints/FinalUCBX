@@ -117,21 +117,21 @@ p {
 
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 #team {
-    background: #eee !important;
+    background: rgb(255, 255, 255) !important;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #108d6f;
-    border-color: #108d6f;
+    background-color: #2D0A72;
+    border-color: rgb(109, 64, 216);
     box-shadow: none;
     outline: none;
 }
 
 .btn-primary {
     color: #fff;
-    background-color: #007b5e;
-    border-color: #007b5e;
+    background-color: #2D0A72;
+    border-color: rgb(109, 64, 216);
 }
 
 section {
@@ -140,14 +140,14 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: #2D0A72;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
 
 #team .card {
     border: none;
-    background: #ffffff;
+    background: #f1f1f1;
 }
 #team {
   background: rgb(255, 255, 255) !important;
@@ -195,7 +195,7 @@ section .section-title {
     position: absolute;
     top: 0;
     left: 0;
-    background: white;
+    background-color: rgb(234, 131, 255) !important;
     -webkit-transform: rotateY(-180deg);
     -moz-transform: rotateY(-180deg);
     -o-transform: rotateY(-180deg);
@@ -231,12 +231,12 @@ section .section-title {
 
 .backside .card a {
     font-size: 18px;
-    color: #007b5e !important;
+    color: #2D0A72 !important;
 }
 
 .frontside .card .card-title,
 .backside .card .card-title {
-    color: #007b5e !important;
+    color: #2D0A72 !important;
 }
 
 .frontside .card .card-body img {
