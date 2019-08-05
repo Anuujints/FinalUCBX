@@ -7,11 +7,16 @@
   <title>Influenza Tracker</title>
   <link rel="icon" href="../static/src/assets/favicon.png">
 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
   
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
   <!-- Link to CSS -->
-  <link rel="stylesheet" href="../static/css/style.css" type="text/css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" type="text/css">
 </head>
 
 
@@ -19,7 +24,7 @@
 
   
 <!-- NAVBAR -->
-<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <a class="navbar-brand" href="/">Influenza Tracker</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu" 
     aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle Navigation">
@@ -35,8 +40,9 @@
           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Explore</a>
           <div class="dropdown-menu">
             <a href="/predictor_map.html#viz1564284286933" class="dropdown-item">Influenza Patients Per State Map</a>
-            <a href="/predictor_map.html" class="dropdown-item">Influenza Mortality Per State Map</a>
-            <a href="/predictor_map.html" class="dropdown-item">Influenza Patient Age Map</a>
+            <a href="/predictor_map.html#viz1564945152043" class="dropdown-item">Influenza Mortality Per State Map</a>
+            <a href="/predictor_map.html" class="dropdown-item">Influenza Patient Age Chart</a>
+            <a href="/weekly_predictor.html" class="dropdown-item">Weekly Influenza Predictor</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -89,7 +95,7 @@
 
 
 <!-- Tableau Map -->
-<div class='tableauPlaceholder' id='viz1564945152043' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1564945152043' style='position: relative' align="center">
   <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FR&#47;FRQFS6JWW&#47;1_rss.png' style='border: none' /></a></noscript>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
@@ -114,6 +120,42 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <!-- End Tableau Map -->
+
+
+<br><br><br><br>
+
+<div class="container-fluid">
+  <div class="row padding">
+    <div class="col-10"> 
+      <div class='tableauPlaceholder' id='viz1564959773292' style='position: relative' align="center">
+        <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Influenzahospitalizationbyagegroup_15649585410250&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
+        <object class='tableauViz'  style='display:none;'>
+          <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+          <param name='embed_code_version' value='3' /> 
+          <param name='site_root' value='' />
+          <param name='name' value='Influenzahospitalizationbyagegroup_15649585410250&#47;Sheet1' />
+          <param name='tabs' value='no' />
+          <param name='toolbar' value='yes' />
+          <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Influenzahospitalizationbyagegroup_15649585410250&#47;Sheet1&#47;1.png' /> 
+          <param name='animate_transition' value='yes' />
+          <param name='display_static_image' value='yes' />
+          <param name='display_spinner' value='yes' />
+          <param name='display_overlay' value='yes' />
+          <param name='display_count' value='yes' />
+          <param name='filter' value='publish=yes' />
+        </object>
+      </div>                
+
+      <script type='text/javascript'>                    
+        var divElement = document.getElementById('viz1564959773292');                    
+        var vizElement = divElement.getElementsByTagName('object')[0];                    
+        vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+        var scriptElement = document.createElement('script');                    
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+      </script>
+    </div>
+ 
 
 
 
