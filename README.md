@@ -2,18 +2,12 @@
 Final group project—Peter, Ivan, Michel, Ema and Anu.
 
 <<<<<<< HEAD
-Acronyms 
-Centers for Disease Control and Prevention’s (CDC)
-Inﬂuenza-like Illness (ILI) 
 
 The Epidemiology and Prevention Branch in the Influenza Division at CDC collects, compiles and analyzes information on influenza activity year-round in the United States and produces FluView, a weekly influenza surveillance report, and FluView Interactive, which allows for more in-depth exploration of influenza surveillance data.
 
-nationwide staring from 1997/98
-statewide starting from 2010
-
+This complied data is available nationwide starting from 1997/98 and statewide starting from 2010
 
 Data sources for final project
-
 
 1. EHR data obtained from athenahealth:- collected from 2009 to 2016
     3 independent variables extracted from this data source 
